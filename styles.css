@@ -13,14 +13,14 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px Monaco,"oblique",monospace;
 }
 
 h1{
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 60px Monaco,"oblique",monospace;
 }
 
 img {
